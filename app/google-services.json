@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "443243136895",
+    "project_id": "e-cos-9c8d2",
+    "storage_bucket": "e-cos-9c8d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443243136895:android:ecfb036c9cb4df311c7c4a",
+        "android_client_info": {
+          "package_name": "com.example.sanacosmetics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443243136895-qmajhafrag95rea08iipacr7fvpicq00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1_ZYDW7RysUx1EcfsHB2pXuBEgjty264"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443243136895-qmajhafrag95rea08iipacr7fvpicq00.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
